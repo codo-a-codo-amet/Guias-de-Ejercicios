@@ -1,2 +1,6 @@
 # Guias-de-Ejercicios
-Resolucion de Ejercicios Varios
+
+- [ ] Uriburu
+- [ ] The Java Tails
+- [ ] Jamrock
+- [ ] Lambda
