@@ -9,6 +9,4 @@
 |_ ```1.1```
    |_ ```Main.java```
    |_ ```PorcentajeDeCompra.java
-|_ ```1.2```
-   |_ ```Main.java```
    
