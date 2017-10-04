@@ -8,5 +8,5 @@
 ```Uriburu```
 |_ ```1.1```
    |_ ```Main.java```
-   |_ ```PorcentajeDeCompra.java
+   || ```PorcentajeDeCompra.java```
    
